@@ -1,5 +1,5 @@
 function Bermudan = BermudanOptionPrice(F0, K, T, sigma, B, q, M)
-
+%test prova
 % Parameters
 r = -log(B)/T;          
 
